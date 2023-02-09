@@ -9,5 +9,5 @@ matplotlib_extend.change_barb_of_draw_empty_flag()
 ![lena](test2.png)
 
 ## 绘制实心+空心旗子
-matplotlib_extend.change_barb_of_draw_empty_flag()
+matplotlib_extend.change_barb_of_draw_two_flag()
 ![lena](test3.png)
