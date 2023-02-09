@@ -186,6 +186,7 @@ def _make_barbs_draw_two_flag(self, u, v, full_nflags, empty_nflags, nbarbs, hal
 
 def set_UVC_draw_two_flag(self, U, V, C=None):
     from matplotlib import cbook
+
     def _check_consistent_shapes(*arrays):
         all_shapes = {a.shape for a in arrays}
         if len(all_shapes) != 1:
